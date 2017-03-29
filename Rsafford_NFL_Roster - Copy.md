@@ -1,5 +1,5 @@
 Baltimore Ravens,BAL
-QB,Ryan Mallett,28,2011,84,63,85,97,79,20,0.8,2
+QB,Ryaan Mallett,28,2011,84,63,85,97,79,20,0.8,2
 QB,Joe Flacco,31,2008,86,86,97,97,87,55,22.1,3
 QB,Josh Johnson,30,2008,73,65,92,87,73,63,0.6,1
 RB,Lorenzo Taliaferro,24,2014,77,57,91,89,86,65,0.6,4
